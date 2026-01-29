@@ -128,3 +128,4 @@ JWT_SECRET=your_secret_here
 
 You can change the JWT_SECRET to anything you want.
 # Perkstack
+# Perkstack
