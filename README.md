@@ -126,6 +126,22 @@ MONGO_URI=mongodb://127.0.0.1:27017/prime-station
 JWT_SECRET=your_secret_here
 ```
 
-You can change the JWT_SECRET to anything you want.
+
+## Application Screenshots
+
+Here is a glimpse of the application:
+
+**Landing Page**
+![Landing Page](./screenshots/landing.png)
+
+**Deals Page**
+![Deals Page](./screenshots/deals.png)
+
+**Login Page**
+![Login Page](./screenshots/login.png)
+
+**Register Page**
+![Register Page](./screenshots/register.png)
+
 # Perkstack
 # Perkstack
