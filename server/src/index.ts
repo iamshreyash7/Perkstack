@@ -1,4 +1,4 @@
-import express from 'express';
+import express, { Request, Response } from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
 import morgan from 'morgan';
@@ -28,7 +28,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/deals', dealRoutes);
 app.use('/api/claims', claimRoutes);
 
-app.get('/', (req, res) => {
+app.get('/', (req: Request, res: Response) => {
     res.send('API is running...');
 });
 
