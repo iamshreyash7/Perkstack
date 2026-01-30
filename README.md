@@ -1,4 +1,4 @@
-# Startup Benefits Platform
+# PerkStack - A Startup Benefits Platform
 
 A web application where startups can find and claim exclusive deals on SaaS tools.
 
