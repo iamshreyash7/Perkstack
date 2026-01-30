@@ -12,7 +12,7 @@ const Navbar = () => {
         <nav className="fixed top-0 w-full z-50 bg-zinc-900 border-b border-zinc-800 h-16 flex items-center">
             <div className="max-w-7xl mx-auto px-4 w-full flex justify-between items-center">
                 <Link href="/" className="text-lg font-bold text-white">
-                    PrimeStation
+                    PerkStack
                 </Link>
 
                 {/* Desktop Menu */}

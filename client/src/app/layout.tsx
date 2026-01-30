@@ -7,7 +7,7 @@ import Navbar from '@/components/Navbar';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'PrimeStation - Exclusive Startup Deals',
+  title: 'PerkStack - Exclusive Startup Deals',
   description: 'Premium SaaS deals for verified startups.',
 };
 

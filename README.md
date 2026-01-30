@@ -122,7 +122,7 @@ Create a `.env` file in the server folder:
 
 ```
 PORT=8000
-MONGO_URI=mongodb://127.0.0.1:27017/prime-station
+MONGO_URI=mongodb://127.0.0.1:27017/perkstack
 JWT_SECRET=your_secret_here
 ```
 
